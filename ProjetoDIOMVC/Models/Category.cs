@@ -10,6 +10,6 @@ namespace ProjetoDIOMVC.Models
         public int Id { get; set; }
         public string Description { get; set; }
 
-        public List<Product> Procuct { get; set; }
+        //public List<Product> Procuct { get; set; }
     }
 }
